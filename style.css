@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+  color: blueviolet;
+}
+i {
+  font-family: helvetica;
+  color: blue;
+}
+h3 {
+  font-size: Arial;
+  color: brown;
+}
+.list a {
+  font-family: helvetica;
+  display: inline;
+  text-decoration: none;
+  color: red;
+}
+table {
+  border: 3px;
+  color: blue;
+  width: 50%;
+  color: yellowgreen;
+}
+footer {
+  font-stretch: arial;
+  color: rgb(15, 133, 180);
+}
+input {
+  font-family: Arial;
+  color: black;
+}
+.heer {
+  background-color: whitesmoke;
+}
+.no{
+
+    color: red;
+}
+.video{margin: 10%;
+  width:800px;
+  height:400px;}
+
+
+
